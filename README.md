@@ -6,13 +6,14 @@ Boosting Linux terminal productivity using Z shell and its plugins
 - WezTerm is a GPU-accelerated terminal emulator that runs on Linux, macOS, and Windows.
 
 ### Why Choose WezTerm Over Others?
-Feature	WezTerm	Alacritty	Kitty	tmux
-GPU Acceleration	✅	✅	✅	❌
-Multiplexing	✅	❌	❌	✅
-Tabs & Panes	✅	❌	✅	✅
-Lua Scripting	✅	❌	❌	❌
-SSH Support	✅	❌	❌	✅
-Font Ligatures	✅	✅	✅	❌
+
+-  Blazing Fast Performance 🚀
+-  Cross-Platform Support 🖥️
+-  Multiplexing & Tabs 🔀
+-  Modern & Feature-Packed UI 🎨
+-  Deep Customization & Scripting 🔧
+-  Great for Remote Work & SSH 🌎
+-  Actively Maintained & Open-Source 📦
 
 ### Installtion
 
