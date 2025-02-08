@@ -6,7 +6,7 @@ Boosting Linux terminal productivity using Z shell and its plugins
 
 Best Terminals for Linux
 
-> [!note] ## Wezterm
+# 1.Wezterm
 
 
 
