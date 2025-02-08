@@ -24,6 +24,20 @@ wget https://github.com/wez/wezterm/releases/latest/download/WezTerm-Linux-gnu.d
 sudo apt install ./WezTerm-Linux-gnu.deb
 ```
 
+#### 2.Fedora (RPM-based)
+
+```txt
+wget https://github.com/wez/wezterm/releases/latest/download/WezTerm-Linux.rpm
+sudo dnf install ./WezTerm-Linux.rpm
+```
+
+#### 3.Arch Linux (AUR)
+
+```txt
+yay -S wezterm
+OR
+paru -S wezterm
+```
 
 
 
