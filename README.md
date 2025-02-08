@@ -1,11 +1,6 @@
 # TerminalProductivity
 Boosting Linux terminal productivity using Z shell and its plugins
 
-
-# Terminals
-
-Best Terminals for Linux
-
 ## 1.Wezterm
 
 - WezTerm is a GPU-accelerated terminal emulator that runs on Linux, macOS, and Windows.
